@@ -1,0 +1,10 @@
+Archundia Tapia Melissa Natalia.
+PRÁCTICA 2
+Sitio de noticias deportivas de la prepa.
+
+Vista 1. Página principal.
+En la parte superior tendrá el escudo de la prepa. En esta página se muestran noticias de los eventos deportivos de la prepa y sobre los equipos de la prepa.
+Vista 2. Inscripciones.
+La segunda vista te mostrará eventos próximos con un calendario y además informes sobre las inscripciones o información sobre cómo entrar al equipo.
+Vista 3.Conóce a tus equipos.
+Está relacionada a conocer a los distintos equipos que existen y abrá imágenes, información y noticias sobre cada equipo.
