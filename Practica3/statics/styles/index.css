@@ -1,0 +1,158 @@
+/*=fonts----------------------------------------------------------------------------------------------------------------*/
+@font-face {
+    font-family: "Monserrat Bold";
+    src: url("../fonts/Montserrat-Bold.ttf");
+}
+@font-face {
+    font-family: "Lora";
+    src: url("../fonts/Lora-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: "Esteban";
+    src: url("../fonts/Esteban-Regular.ttf");
+}
+/*=body-------------------------------------------------------------------------------------------------------------*/
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: #f5ba614b;
+}
+/*=header-------------------------------------------------------------------------------------------------------------*/
+header{
+    padding-top: 5px;
+    padding-bottom: 40px;
+    margin-top:0 px;
+    background-color:#7C502B;
+
+}
+h1{
+    text-align: center;
+    color:white;
+    font-family: 'Montserrat Bold', Helvetica, sans-serif;
+    text-shadow: 10px 5px 4px rgba(0, 0, 0, 0.35);
+}
+button{
+    margin-bottom: 30px;
+    border:none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(173, 78, 40, 0.452);
+}
+#titulo{
+    position:absolute;
+    left: 35%;
+    top: 5px;
+    width: 500px;
+    height: 100px;
+    letter-spacing: 0.25em;
+
+}
+#menu{
+    margin: 5px 5px 5px 5px;
+    width: 125px;
+    height: 75px;
+    text-align: center;
+    background-color:#f49a66d3;
+}
+#menu:hover{
+    background: #fb843f;
+
+}
+#redes{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 50px;
+    height: 100px;
+    text-align: center;
+    cursor: pointer;
+
+}
+/*=section-------------------------------------------------------------------------------------------------------------*/
+#anuncio{
+    position: relative;
+    left: 25%;
+    top: 30px;
+}
+
+#frase{
+    margin-top: 40px;
+    padding-top: 10px;
+    height: 100px;
+    text-align: left;
+    background-color:#F5BA61;
+    font-family: 'Esteban','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+p{
+    margin: 0px;
+    margin-left: 35px;
+    letter-spacing: 0.05em;
+
+}
+#new{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    background-color:#AB8347; 
+    color:white;
+    font-family: 'Lora', Times, serif;
+    font-weight: bold;
+    letter-spacing: 0.25em;
+    text-shadow: 6px 4px 4px rgba(0, 0, 0, 0.7);
+    text-align: center;
+    font-size: 40px;
+
+}
+#logo{
+    position: absolute;
+    right: 5%;
+    top: 520px;
+}
+.img{
+    padding: 10px;
+    background-color: transparent;
+}
+.separa{
+    margin-right: 100px;
+}
+.productos{
+    margin-left: 5%;
+    padding: 0px;
+    width: 700 px;
+    height: 400 px;
+    
+}
+.naranja{
+    background-color: #f5a142b4;
+}
+.rosa{
+    background-color: #f49a66d8;
+}
+.etiquetas{
+    padding: 10px;
+    display: inline-block;
+    width: 355px;
+    height: 18px;
+    text-align: center;
+}
+.nombres1{
+    position: relative;
+    top:-18px;
+    right: 395px;
+}
+.nombres2{
+    position: relative;
+    top:-78px;
+    left: 806px;   
+}
+
+/*=footer-------------------------------------------------------------------------------------------------------------*/
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #C4C4C4;
+    text-align: center;
+
+}

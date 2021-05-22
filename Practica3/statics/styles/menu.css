@@ -1,0 +1,57 @@
+/*=fonts----------------------------------------------------------------------------------------------------------------*/
+@font-face {
+    font-family: "Monserrat Bold";
+    src: url("../fonts/Montserrat-Bold.ttf");
+}
+@font-face {
+    font-family: "Lora";
+    src: url("../fonts/Lora-VariableFont_wght.ttf");
+}
+/*=body-------------------------------------------------------------------------------------------------------------*/
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: #211c18ec;
+}
+/*=header-------------------------------------------------------------------------------------------------------------*/
+header{
+    padding-top: 5px;
+    margin-top:0 px;
+    text-align: center;
+    background-color:#f49a66da;
+    color:white;
+    font-family: 'Montserrat Bold', Helvetica, sans-serif;
+    text-shadow: 10px 5px 4px rgba(0, 0, 0, 0.35);
+
+}
+h1{
+    font-weight: bold;
+    font-size: 35px;
+    letter-spacing: 0.25em;
+}
+h2{
+    font-size: 30px;
+    letter-spacing: 0.05em;
+}
+/*=section----------------------------------------------------------------------------------------------------------------*/
+div{
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+}
+p{
+    margin-top: 0px;
+    margin-bottom:0 px;
+    text-align: center;
+    color:white;
+    font-family: 'Lora', Times, serif;
+    font-size: 22px;
+}
+p:hover{
+    color: #F49966;
+    cursor: pointer;
+}
+
+
